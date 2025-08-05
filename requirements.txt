@@ -1,0 +1,8 @@
+surya-ocr
+python-dotenv
+Pillow
+PyMuPDF
+numpy
+scikit-learn
+transformers
+torch
